@@ -64,14 +64,5 @@ function App() {
    </>
   );
 }
-// jbksabkbwibiuw
-
-
-//  bahkcbkabcka
-
-
-//  jhvsdhkbkjbvikakjvbjbvwv
-
-
 
 export default App;
